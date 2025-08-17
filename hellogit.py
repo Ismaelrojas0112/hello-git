@@ -1,2 +1,1 @@
-print("hello world");
-print("soy ismael")
+print("¡new hello world!");
